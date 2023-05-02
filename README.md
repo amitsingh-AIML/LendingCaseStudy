@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# LendingCaseStudy
+> This case study is to identify and understand how customer attributes and loan attributes influence the tendency to default
 
 
 ## Table of Contents
@@ -11,10 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This project is to help Lending club emarketplace to identify risks while providing loans to borrowers.
+- This project will help investors to judge riskier loans vs non riskier lons
+- This EDA will help bsuiness to make decisions on allocating loans basis risk profile of a cutomer/borrower
+- Loan dataset is being used which contains all charged off , fully paid and current loan statuses.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
