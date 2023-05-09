@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions for tendency to default)
+* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -18,7 +18,7 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions for tendency to default
+## Conclusions
 - Purpose such as small business or debt consoildation
 - Interest rates higher than equal to 14 percent
 - Home ownership such as Rent or Mortgage
