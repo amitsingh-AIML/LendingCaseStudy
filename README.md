@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* [Conclusions](#conclusions for tendency to default)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -18,11 +18,15 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+## Conclusions for tendency to default
+- Purpose such as small business or debt consoildation
+- Interest rates higher than equal to 14 percent
+- Home ownership such as Rent or Mortgage
+- When people have mortgage and loan amount between 10k to 14k people tend to default
+- When people have Unknown/Other home ownership and loan amount between 10k to 14k people tend to default
+- For higher interest rates , across all purposes , if the interest rates go higher than 10% , the numbers of defaulters vs fully paid increases.
+- lower number of open accounts and total accounts 
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
